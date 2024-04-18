@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>ATHLETICO PARANAENSE</title>
+        <style>
+            body {
+                background-color: black;
+            }
+            .times {
+                height: 400px;
+                width: 300;
+                border: 10px;
+                position: fixed;
+                top: 100px;
+                left: 10px;
+            }
+            .escudo {
+                color:black;
+                position: fixed;
+                top: 100px;
+                left: 60px;
+            }
+            .nometime {
+                color: white;
+                position: fixed;
+                top: 310px;
+                left: 40px;
+            }
+            .informacao1 {
+                color: white;
+                position: fixed;
+                top: 80px;
+                left: 350px;
+            }
+            .informacao2 {
+                color: white;
+                position: fixed;
+                top: 120px;
+                left: 350px;
+            
+            
+                
+        </style>
+    </head>
+    <body>
+        <h1 class="escudo">times</h1>
+        <a href=">
+            <img class="times" src="C:\Users\Flavia Mehl\Downloads\cap-removebg-preview.png"
+        <p class="nometime">ATHLETICO PARANAENSE</p>
+        <p class="informacao1">Nome: Clube Athletico Paranaense </p>
+        <p class="informacao2">Data de fundação: 26/03/1924</p>
+        <p class="informacao3">Estadio:Arena Da Baixada</p>
+        </body>
+</html>

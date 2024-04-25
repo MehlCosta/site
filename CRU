@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>CRICIÚMA</title>
+        <style>
+            body {
+                background-color: black;
+            }
+            .times {
+                height: 400px;
+                width: 400;
+                border: 10px;
+                position: fixed;
+                top: 200px;
+                left: 50px;
+            }
+            .escudo {
+                color:black;
+                position: fixed;
+                top: 50px;
+                left: 30px;
+            }
+            .nometime {
+                color: white;
+                position: fixed;
+                top: 310px;
+                left: 40px;
+            }
+            .informacao1 {
+                color: white;
+                position: fixed;
+                top: 60px;
+                left: 500px;
+            }
+            .informacao2 {
+                color: white;
+                position: fixed;
+                top: 100px;
+                left: 500px;
+            }
+            .informacao3 {
+                color: white;
+                position: fixed;
+                top: 140px;
+                left: 500px;
+            }
+            .informacao4 {
+                color: white;
+                position: fixed;
+                top: 180px;
+                left: 500px;
+            }
+            .informacao5 {
+                color: white;
+                position: fixed;
+                top: 220px;
+                left: 500px;
+            }
+            .informacao6 {
+                color: white;
+                position: fixed;
+                top: 260px;
+                left: 500px;
+            }
+            .informacao7 {
+                color: white;
+                position: fixed;
+                top: 300px;
+                left: 500px;
+            }
+            .informacao8 {
+                color: white;
+                position: fixed;
+                top: 340px;
+                left: 500px;
+            }
+            .informacao9 {
+                color: white;
+                position: fixed;
+                top: 380px;
+                left: 500px;
+            }
+            .informacao10 {
+                color: white;
+                position: fixed;
+                top: 420px;
+                left: 500px;
+            }
+            .informacao11 {
+                color: white;
+                position: fixed;
+                top: 460px;
+                left: 500px;
+            }
+            .informacao12 {
+                color: white;
+                position: fixed;
+                top: 500px;
+                left: 500px;
+            }
+            .informacao13 {
+                color: white;
+                position: fixed;
+                top: 540px;
+                left: 500px;
+            }
+            .informacao14 {
+                color: white;
+                position: fixed;
+                top: 580px;
+                left: 500px;
+            }
+            .informacao15 {
+                color: white;
+                position: fixed;
+                top: 620px;
+                left: 500px;
+            }
+            .informacao16 {
+                color: white;
+                position: fixed;
+                top: 660px;
+                left: 500px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1 class="escudo">times</h1>
+            <img class="times" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Logo_Cruzeiro_1996.png"
+        <p class="nometime">ATHLETICO PARANAENSE </p>
+        <p class="informacao1">Nome: Cruzeiro Esporte Clube </p>
+        <p class="informacao2">Data de fundação: 02/01/1921</p>
+        <p class="informacao3">Estadio: Mineiãor</p>4
+        <p class="informacao4">Capacidade: 61.927 pessoas</p>
+        <p class="informacao5">Estado: Minas Gerais</p>
+        <p class="informacao6">Apelido: Raposa</p>
+        <p class="informacao7">Mascote: Raposa</p>
+        <p class="informacao8">Rival: Atletico Mineiro</p>
+        <p class="informacao9">Campeonato Brasileiro: 4</p>
+        <p class="informacao10">Copa do Brasil: 6</p>
+        <p class="informacao11">Sulamericana: 0</p>
+        <p class="informacao12">Libertadores: 2</p>
+        <p class="informacao13">Mundial: 0</p>
+        <p class="informacao14">Rebaixamentos: 1</p>
+        <p class="informacao15">Presidente: Dr. Lidson</p>
+        <p class="informacao16">Técnico: Nicolás Larcamón</p>
+    </body>
+</html>

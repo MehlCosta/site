@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>BAHIA</title>
+        <style>
+            body {
+                background-color: black;
+            }
+            .times {
+                height: 550px;
+                width: 400;
+                border: 10px;
+                position: fixed;
+                top: 100px;
+                left: 10px;
+            }
+            .escudo {
+                color:black;
+                position: fixed;
+                top: 50px;
+                left: 30px;
+            }
+            .nometime {
+                color: white;
+                position: fixed;
+                top: 310px;
+                left: 40px;
+            }
+            .informacao1 {
+                color: white;
+                position: fixed;
+                top: 60px;
+                left: 500px;
+            }
+            .informacao2 {
+                color: white;
+                position: fixed;
+                top: 100px;
+                left: 500px;
+            }
+            .informacao3 {
+                color: white;
+                position: fixed;
+                top: 140px;
+                left: 500px;
+            }
+            .informacao4 {
+                color: white;
+                position: fixed;
+                top: 180px;
+                left: 500px;
+            }
+            .informacao5 {
+                color: white;
+                position: fixed;
+                top: 220px;
+                left: 500px;
+            }
+            .informacao6 {
+                color: white;
+                position: fixed;
+                top: 260px;
+                left: 500px;
+            }
+            .informacao7 {
+                color: white;
+                position: fixed;
+                top: 300px;
+                left: 500px;
+            }
+            .informacao8 {
+                color: white;
+                position: fixed;
+                top: 340px;
+                left: 500px;
+            }
+            .informacao9 {
+                color: white;
+                position: fixed;
+                top: 380px;
+                left: 500px;
+            }
+            .informacao10 {
+                color: white;
+                position: fixed;
+                top: 420px;
+                left: 500px;
+            }
+            .informacao11 {
+                color: white;
+                position: fixed;
+                top: 460px;
+                left: 500px;
+            }
+            .informacao12 {
+                color: white;
+                position: fixed;
+                top: 500px;
+                left: 500px;
+            }
+            .informacao13 {
+                color: white;
+                position: fixed;
+                top: 540px;
+                left: 500px;
+            }
+            .informacao14 {
+                color: white;
+                position: fixed;
+                top: 580px;
+                left: 500px;
+            }
+            .informacao15 {
+                color: white;
+                position: fixed;
+                top: 620px;
+                left: 500px;
+            }
+            .informacao16 {
+                color: white;
+                position: fixed;
+                top: 660px;
+                left: 500px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1 class="escudo">times</h1>
+            <img class="times" src="https://upload.wikimedia.org/wikipedia/pt/9/90/ECBahia.png"
+        <p class="nometime">ATHLETICO PARANAENSE </p>
+        <p class="informacao1">Nome: Esporte Clube Bahia </p>
+        <p class="informacao2">Data de fundação: 01/01/1931</p>
+        <p class="informacao3">Estadio: Arena Fonte Nova</p>4
+        <p class="informacao4">Capacidade: 48.902 pessoas</p>
+        <p class="informacao5">Estado: Bahia</p>
+        <p class="informacao6">Apelido: Tricolor de Aço</p>
+        <p class="informacao7">Mascote: Super-Homen Tricolor</p>
+        <p class="informacao8">Rival: Vitoria</p>
+        <p class="informacao9">Campeonato Brasileiro: 2</p>
+        <p class="informacao10">Copa do Brasil: 0</p>
+        <p class="informacao11">Sulamericana: 0</p>
+        <p class="informacao12">Libertadores: 0</p>
+        <p class="informacao13">Mundial: 0</p>
+        <p class="informacao14">Rebaixamentos: 4</p>
+        <p class="informacao15">Presidente: Emerson Ferretti</p>
+        <p class="informacao16">Técnico: Rogerio Ceni</p>
+    </body>
+</html>

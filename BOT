@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>BOTAFOGO</title>
+        <style>
+            body {
+                background-color: black;
+            }
+            .times {
+                height: 550px;
+                width: 400;
+                border: 10px;
+                position: fixed;
+                top: 100px;
+                left: 10px;
+            }
+            .escudo {
+                color:black;
+                position: fixed;
+                top: 50px;
+                left: 30px;
+            }
+            .nometime {
+                color: white;
+                position: fixed;
+                top: 310px;
+                left: 40px;
+            }
+            .informacao1 {
+                color: white;
+                position: fixed;
+                top: 60px;
+                left: 500px;
+            }
+            .informacao2 {
+                color: white;
+                position: fixed;
+                top: 100px;
+                left: 500px;
+            }
+            .informacao3 {
+                color: white;
+                position: fixed;
+                top: 140px;
+                left: 500px;
+            }
+            .informacao4 {
+                color: white;
+                position: fixed;
+                top: 180px;
+                left: 500px;
+            }
+            .informacao5 {
+                color: white;
+                position: fixed;
+                top: 220px;
+                left: 500px;
+            }
+            .informacao6 {
+                color: white;
+                position: fixed;
+                top: 260px;
+                left: 500px;
+            }
+            .informacao7 {
+                color: white;
+                position: fixed;
+                top: 300px;
+                left: 500px;
+            }
+            .informacao8 {
+                color: white;
+                position: fixed;
+                top: 340px;
+                left: 500px;
+            }
+            .informacao9 {
+                color: white;
+                position: fixed;
+                top: 380px;
+                left: 500px;
+            }
+            .informacao10 {
+                color: white;
+                position: fixed;
+                top: 420px;
+                left: 500px;
+            }
+            .informacao11 {
+                color: white;
+                position: fixed;
+                top: 460px;
+                left: 500px;
+            }
+            .informacao12 {
+                color: white;
+                position: fixed;
+                top: 500px;
+                left: 500px;
+            }
+            .informacao13 {
+                color: white;
+                position: fixed;
+                top: 540px;
+                left: 500px;
+            }
+            .informacao14 {
+                color: white;
+                position: fixed;
+                top: 580px;
+                left: 500px;
+            }
+            .informacao15 {
+                color: white;
+                position: fixed;
+                top: 620px;
+                left: 500px;
+            }
+            .informacao16 {
+                color: white;
+                position: fixed;
+                top: 660px;
+                left: 500px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1 class="escudo">times</h1>
+            <img class="times" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Escudo_Botafogo.png/800px-Escudo_Botafogo.png"
+        <p class="nometime">ATHLETICO PARANAENSE </p>
+        <p class="informacao1">Nome: Botafogo Futebol e Regatas </p>
+        <p class="informacao2">Data de fundação: 12/08/1904</p>
+        <p class="informacao3">Estadio: Estadio Olimpico Nilton Santos</p>4
+        <p class="informacao4">Capacidade: 44.661 pessoas</p>
+        <p class="informacao5">Estado: Rio de Janeiro</p>
+        <p class="informacao6">Apelido: Fogão</p>
+        <p class="informacao7">Mascote: Biriba/Manequinho</p>
+        <p class="informacao8">Rival: Flamengo, Fluminense e Vasco da Gama</p>
+        <p class="informacao9">Campeonato Brasileiro: 2</p>
+        <p class="informacao10">Copa do Brasil: 0</p>
+        <p class="informacao11">Sulamericana: 1</p>
+        <p class="informacao12">Libertadores: 0</p>
+        <p class="informacao13">Mundial: 0</p>
+        <p class="informacao14">Rebaixamentos: 3</p>
+        <p class="informacao15">Presidente: Durcesio Mello</p>
+        <p class="informacao16">Técnico:Artur Jorge</p>
+    </body>
+</html>

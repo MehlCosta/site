@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>CAMPEONATO BRASILEIRO</title>
+        <style>
+            body {
+                background-color: black;
+            }
+            .times {
+                height: 550px;
+                width: 400;
+                border: 10px;
+                position: fixed;
+                top: 100px;
+                left: -300px;
+            }
+            .escudo {
+                color:black;
+                position: fixed;
+                top: 50px;
+                left: 30px;
+            }
+            .nometime {
+                color: white;
+                position: fixed;
+                top: 310px;
+                left: 40px;
+            }
+            .informacao1 {
+                color: white;
+                position: fixed;
+                top: 60px;
+                left: 500px;
+            }
+            .campeoes {
+                height: 200px;
+                width: 400;
+                border: 10px;
+                position: fixed;
+                top: 525px;
+                left: 725px;
+            }
+            .brasa {
+                height: 100px;
+                width: 400;
+                border: 10px;
+                position: fixed;
+                top: 0px;
+                left: 750px;
+            }
+            
+        </style>
+    </head>
+    <body>
+        <h1 class="escudo">times</h1>
+            <img class="times" src="https://marcas-logos.net/wp-content/uploads/2020/03/CAMPEONATO-BRASILEIRO-S%C3%89RIE-A-LOGO.png"
+            <p class="nometime">ATHLETICO PARANAENSE </p>
+            <img class="brasa" src="C:\Users\Flavia Mehl\Downloads\Untitled Project (1).jpg"
+            <p class="nometime">ATHLETICO PARANAENSE </p>
+            <p class="informacao1">O Campeonato Brasileiro de Futebol, popularmente chamado Brasileirão, é a principal competição nacional disputada entre clubes. Atualmente, é dividida em quatro divisões: Séries A, B e C, com 20 times cada uma, e Série D, com 68.
+              Serie A. As 20 equipes participantes se enfrentam em turno e returno no sistema de pontos corridos.
+              O campeão é o clube que somar mais pontos ao final das 38 rodadas de disputa. As quatro últimas equipes 
+              são rebaixadas para a Série B (segunda divisão).A primeira edição oficial foi realizada em 1971. No entanto, em 2010,
+              dois torneios realizados antes da década de 1970 foram reconhecidos como competições nacionais: a Taça Brasil e a Taça de Prata.
+              A história do Campeonato Brasileiro, entretanto, é contada a partir da Taça Brasil.Início do Campeonato Brasileiro – mata-mata
+              A ideia da CBF era enxugar ainda mais a competição, porém clubes com menos expressão no futebol deixaram de fazer parte das disputas nacionais. Para evitar suas extinções, a CBF criou uma competição secundária, a Copa do Brasil, que poderia reunir clubes de todos os estados. E
+              vitando confusão entre os nomes dos torneios, a Copa Brasil passou a ser chamada Campeonato Brasileiro, em 1989.
+              Em 1999, o torneio adotou um novo formato para o rebaixamento, determinando que cairiam para a Série B os quatro clubes que tivessem a menor média de pontos nos campeonatos de 1998 e 1999. O sistema só durou uma temporada.
+              Na primeira fase da competição, foi descoberto que um jogador do São Paulo estava registrado de forma irregular, e a CBF decidiu punir o clube anulando os jogos em que participou. Com isso, Internacional e Botafogo ganharam pontos que levaram o Gama ao rebaixamento. A equipe resolveu, então, processar a CBF, que não pôde organizar o torneio em 2000.
+              O Clube dos 13 voltou à tona e organizou novamente o campeonato, chamando de Copa João Havelange. O torneio contou com as participações de Fluminense e Bahia como convidados, já que ambos estavam na Série B.
+              O campeonato foi dividido em quatro módulos (azul, amarelo, verde e branco), com a presença de 116 times. A final foi entre Vasco, do Módulo Azul, e São Caetano, do Módulo Amarelo. O time do Rio de Janeiro foi o campeão em uma final tumultuada e marcada pelo desabamento do alambrado do estádio São Januário.
+              Campeonato Brasileiro – Era dos Pontos corridos
+              Após mais de 40 anos sem estabilidade nas regras e nem um sistema padrão de disputas, o Campeonato Brasileiro passou a ser organizado de apenas uma maneira. Antes, um formato era implementado nas disputas em quase todos os anos de existência.
+              Em 2003, tudo mudou. O torneio adotou o formato de pontos corridos, que é realizado até os dias atuais. Nesse modo de disputa, todos jogam contra todos em turno e returno. O Cruzeiro foi o primeiro campeão desse formato, entre as 24 equipes participantes da Série A.
+              Com o formato estabelecido, em 2005 uma nova polêmica assombrou o Campeonato Brasileiro: a prisão do árbitro Edílson Pereira de Carvalho, acusado de manipular os resultados dos jogos para garantir lucro de empresários que investiam em site de apostas. O escândalo ficou conhecido com Máfia do Apito e fez com que o Superior Tribunal de Justiça Desportiva (STJD) anulasse 11 jogos apitados pelo árbitro.
+              O número de 20 participantes foi definido no torneio de 2006, com os quatro melhores times classificando-se para a Copa Libertadores, e os quatro piores sendo rebaixados para a Série B. 
+              Em 2010, a CBF decidiu unificar o Campeonato Brasileiro, ou seja, a instituição reconheceu as competições anteriores a 1971, dando à Taça Brasil e ao Torneio Robertão o peso equivalente ao do Campeonato Brasileiro.
+        </p>
+        <img class="campeoes" src="C:\Users\Flavia Mehl\Downloads\Untitled Project.jpg"
+    </body>
+</html>

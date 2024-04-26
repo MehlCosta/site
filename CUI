@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>CUIABA</title>
+        <style>
+            body {
+                background-color: black;
+            }
+            .times {
+                height: 500px;
+                width: 400;
+                border: 10px;
+                position: fixed;
+                top: 150px;
+                left: 10px;
+            }
+            .img {
+                height: 400px;
+                width: 400;
+                border: 10px;
+                position: fixed;
+                top: 50px;
+                left: 900px;
+            }
+            .tof {
+                height: 150px;
+                width: 400;
+                border: 10px;
+                position: fixed;
+                top: 500px;
+                left: 900px;
+            }
+            .est {
+                height: 150px;
+                width: 400;
+                border: 10px;
+                position: fixed;
+                top: 500px;
+                left: 1200px;
+            }
+            .escudo {
+                color:black;
+                position: fixed;
+                top: 50px;
+                left: 30px;
+            }
+            .nometime {
+                color: white;
+                position: fixed;
+                top: 310px;
+                left: 40px;
+            }
+            .informacao1 {
+                color: white;
+                position: fixed;
+                top: 60px;
+                left: 500px;
+            }
+            .informacao2 {
+                color: white;
+                position: fixed;
+                top: 100px;
+                left: 500px;
+            }
+            .informacao3 {
+                color: white;
+                position: fixed;
+                top: 140px;
+                left: 500px;
+            }
+            .informacao4 {
+                color: white;
+                position: fixed;
+                top: 180px;
+                left: 500px;
+            }
+            .informacao5 {
+                color: white;
+                position: fixed;
+                top: 220px;
+                left: 500px;
+            }
+            .informacao6 {
+                color: white;
+                position: fixed;
+                top: 260px;
+                left: 500px;
+            }
+            .informacao7 {
+                color: white;
+                position: fixed;
+                top: 300px;
+                left: 500px;
+            }
+            .informacao8 {
+                color: white;
+                position: fixed;
+                top: 340px;
+                left: 500px;
+            }
+            .informacao9 {
+                color: white;
+                position: fixed;
+                top: 380px;
+                left: 500px;
+            }
+            .informacao10 {
+                color: white;
+                position: fixed;
+                top: 420px;
+                left: 500px;
+            }
+            .informacao11 {
+                color: white;
+                position: fixed;
+                top: 460px;
+                left: 500px;
+            }
+            .informacao12 {
+                color: white;
+                position: fixed;
+                top: 500px;
+                left: 500px;
+            }
+            .informacao13 {
+                color: white;
+                position: fixed;
+                top: 540px;
+                left: 500px;
+            }
+            .informacao14 {
+                color: white;
+                position: fixed;
+                top: 580px;
+                left: 500px;
+            }
+            .informacao15 {
+                color: white;
+                position: fixed;
+                top: 620px;
+                left: 500px;
+            }
+            .informacao16 {
+                color: white;
+                position: fixed;
+                top: 660px;
+                left: 500px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1 class="escudo">times</h1>
+            <img class="times" src="https://esporteclubebahia.b-cdn.net/wp-content/uploads/2014/07/logo-cuiaba-4096.png"
+        <p class="nometime">ATHLETICO PARANAENSE </p>
+        <p class="informacao1">Nome: Cuiaba Esporte Clube </p>
+        <p class="informacao2">Data de fundação: 12/12/2001</p>
+        <p class="informacao3">Estadio: Arena Pantanal</p>4
+        <p class="informacao4">Capacidade: 45.097 pessoas</p>
+        <p class="informacao5">Estado: Mato Grosso</p>
+        <p class="informacao6">Apelido: Dourado</p>
+        <p class="informacao7">Mascote: Peixe Dourado</p>
+        <p class="informacao8">Rival: Mixto</p>
+        <p class="informacao9">Campeonato Brasileiro: 0</p>
+        <p class="informacao10">Copa do Brasil: 0</p>
+        <p class="informacao11">Sulamericana: 0</p>
+        <p class="informacao12">Libertadores: 0</p>
+        <p class="informacao13">Mundial: 0</p>
+        <p class="informacao14">Rebaixamentos: 0</p>
+        <p class="informacao15">Presidente: Cristiano Dresch</p>
+        <p class="informacao16">Técnico: Luiz Ferenando Lubel</p>
+        <img class="img" src="https://www.sonoticias.com.br/wp-content/uploads/2019/04/cuiaba-campeao.jpg"
+        <h1 class="escudo">times</h1>
+        <h1 class="escudo">times</h1>
+        <img class="est" src="https://hojees.com.br/wp-content/uploads/2023/08/011f93164e4aaeaf5dcb96a61c56b40b.jpeg"
+        <h1 class="escudo">times</h1>
+        <h1 class="escudo">times</h1>
+        <img class="tof" src="https://www.leiagora.com.br/imgsite/noticias/amp-20140817-280469-Cuiaba-X-Fortaleza-1424.jpg"
+    </body>
+</html>

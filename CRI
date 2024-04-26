@@ -15,6 +15,30 @@
                 top: 200px;
                 left: 10px;
             }
+            .img {
+                height: 400px;
+                width: 400;
+                border: 10px;
+                position: fixed;
+                top: 50px;
+                left: 900px;
+            }
+            .tof {
+                height: 150px;
+                width: 400;
+                border: 10px;
+                position: fixed;
+                top: 500px;
+                left: 900px;
+            }
+            .est {
+                height: 150px;
+                width: 400;
+                border: 10px;
+                position: fixed;
+                top: 500px;
+                left: 1200px;
+            }
             .escudo {
                 color:black;
                 position: fixed;
@@ -145,5 +169,12 @@
         <p class="informacao14">Rebaixamentos: 4</p>
         <p class="informacao15">Presidente: Vilmar Guedes</p>
         <p class="informacao16">Técnico: Claudio Tencati</p>
+        <img class="img" src="https://fcf.com.br/wp-content/uploads/2022/09/Criciuma-campeao-Serie-B-Catarinense-2022.jpeg"
+        <h1 class="escudo">times</h1>
+        <h1 class="escudo">times</h1>
+        <img class="est" src="https://media-cdn.tripadvisor.com/media/photo-m/1280/28/40/d2/b3/2022.jpg"
+        <h1 class="escudo">times</h1>
+        <h1 class="escudo">times</h1>
+        <img class="tof" src="https://www.4oito.com.br/media/noticias/WhatsApp-Image-2023-02-13-at-13-25-24_78940.jpg"
     </body>
 </html>

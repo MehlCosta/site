@@ -15,6 +15,30 @@
                 top: 100px;
                 left: 10px;
             }
+            .img {
+                height: 400px;
+                width: 400;
+                border: 10px;
+                position: fixed;
+                top: 50px;
+                left: 900px;
+            }
+            .tof {
+                height: 150px;
+                width: 400;
+                border: 10px;
+                position: fixed;
+                top: 500px;
+                left: 900px;
+            }
+            .est {
+                height: 150px;
+                width: 400;
+                border: 10px;
+                position: fixed;
+                top: 500px;
+                left: 1200px;
+            }
             .escudo {
                 color:black;
                 position: fixed;
@@ -145,5 +169,12 @@
         <p class="informacao14">Rebaixamentos: 4</p>
         <p class="informacao15">Presidente: Emerson Ferretti</p>
         <p class="informacao16">Técnico: Rogerio Ceni</p>
+        <img class="img" src="https://esportenewsmundo.com.br/wp-content/uploads/2022/11/Bahia-Campeao-Copa-do-Nordeste-Reproducao-x-Twitter.jpg"
+        <h1 class="escudo">times</h1>
+        <h1 class="escudo">times</h1>
+        <img class="est" src="https://www.estadios.net/wp-content/uploads/2018/11/arena-fonte-nova-vista.jpg"
+        <h1 class="escudo">times</h1>
+        <h1 class="escudo">times</h1>
+        <img class="tof" src="https://esporteclubebahia.b-cdn.net/wp-content/uploads/2017/11/37852228282_d1254baf04_k.jpg"
     </body>
 </html>

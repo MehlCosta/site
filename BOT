@@ -15,6 +15,30 @@
                 top: 100px;
                 left: 10px;
             }
+            .img {
+                height: 400px;
+                width: 400;
+                border: 10px;
+                position: fixed;
+                top: 50px;
+                left: 900px;
+            }
+            .tof {
+                height: 150px;
+                width: 400;
+                border: 10px;
+                position: fixed;
+                top: 500px;
+                left: 900px;
+            }
+            .est {
+                height: 150px;
+                width: 400;
+                border: 10px;
+                position: fixed;
+                top: 500px;
+                left: 1200px;
+            }
             .escudo {
                 color:black;
                 position: fixed;
@@ -145,5 +169,12 @@
         <p class="informacao14">Rebaixamentos: 3</p>
         <p class="informacao15">Presidente: Durcesio Mello</p>
         <p class="informacao16">Técnico:Artur Jorge</p>
+        <img class="img" src="https://esportenewsmundo.com.br/wp-content/uploads/2021/11/51712431798_377219bc89_o-scaled.jpg"
+        <h1 class="escudo">times</h1>
+        <h1 class="escudo">times</h1>
+        <img class="est" src="https://imagem.natelinha.uol.com.br/grande/estadio-engenhao.jpg"
+        <h1 class="escudo">times</h1>
+        <h1 class="escudo">times</h1>
+        <img class="tof" src="https://conteudo.imguol.com.br/c/esporte/d7/2017/12/03/torcida-do-botafogo-no-engenhao-durante-partida-contra-o-cruzeiro-1512331096675_v2_900x506.jpg"
     </body>
 </html>

@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>FLAMENGO</title>
+        <style>
+            body {
+                background-color: black;
+            }
+            .times {
+                height: 500px;
+                width: 400;
+                border: 10px;
+                position: fixed;
+                top: 150px;
+                left: 10px;
+            }
+            .img {
+                height: 400px;
+                width: 400;
+                border: 10px;
+                position: fixed;
+                top: 50px;
+                left: 900px;
+            }
+            .tof {
+                height: 150px;
+                width: 400;
+                border: 10px;
+                position: fixed;
+                top: 500px;
+                left: 900px;
+            }
+            .est {
+                height: 150px;
+                width: 400;
+                border: 10px;
+                position: fixed;
+                top: 500px;
+                left: 1200px;
+            }
+            .escudo {
+                color:black;
+                position: fixed;
+                top: 50px;
+                left: 30px;
+            }
+            .nometime {
+                color: white;
+                position: fixed;
+                top: 310px;
+                left: 40px;
+            }
+            .informacao1 {
+                color: white;
+                position: fixed;
+                top: 60px;
+                left: 500px;
+            }
+            .informacao2 {
+                color: white;
+                position: fixed;
+                top: 100px;
+                left: 500px;
+            }
+            .informacao3 {
+                color: white;
+                position: fixed;
+                top: 140px;
+                left: 500px;
+            }
+            .informacao4 {
+                color: white;
+                position: fixed;
+                top: 180px;
+                left: 500px;
+            }
+            .informacao5 {
+                color: white;
+                position: fixed;
+                top: 220px;
+                left: 500px;
+            }
+            .informacao6 {
+                color: white;
+                position: fixed;
+                top: 260px;
+                left: 500px;
+            }
+            .informacao7 {
+                color: white;
+                position: fixed;
+                top: 300px;
+                left: 500px;
+            }
+            .informacao8 {
+                color: white;
+                position: fixed;
+                top: 340px;
+                left: 500px;
+            }
+            .informacao9 {
+                color: white;
+                position: fixed;
+                top: 380px;
+                left: 500px;
+            }
+            .informacao10 {
+                color: white;
+                position: fixed;
+                top: 420px;
+                left: 500px;
+            }
+            .informacao11 {
+                color: white;
+                position: fixed;
+                top: 460px;
+                left: 500px;
+            }
+            .informacao12 {
+                color: white;
+                position: fixed;
+                top: 500px;
+                left: 500px;
+            }
+            .informacao13 {
+                color: white;
+                position: fixed;
+                top: 540px;
+                left: 500px;
+            }
+            .informacao14 {
+                color: white;
+                position: fixed;
+                top: 580px;
+                left: 500px;
+            }
+            .informacao15 {
+                color: white;
+                position: fixed;
+                top: 620px;
+                left: 500px;
+            }
+            .informacao16 {
+                color: white;
+                position: fixed;
+                top: 660px;
+                left: 500px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1 class="escudo">times</h1>
+            <img class="times" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png"
+        <p class="nometime">ATHLETICO PARANAENSE </p>
+        <p class="informacao1">Nome: Clube De Regatas Do Flamengo </p>
+        <p class="informacao2">Data de fundação: 15/11/1895</p>
+        <p class="informacao3">Estadio: Maracanã</p>
+        <p class="informacao4">Capacidade: 78.838 pessoas</p>
+        <p class="informacao5">Estado: Rio de Janeiro</p>
+        <p class="informacao6">Apelido: Mengão</p>
+        <p class="informacao7">Mascote: Urubu</p>
+        <p class="informacao8">Rival: Fluminense, Botafogo, Vasco da gama</p>
+        <p class="informacao9">Campeonato Brasileiro: 8</p>
+        <p class="informacao10">Copa do Brasil: 4</p>
+        <p class="informacao11">Sulamericana: 0</p>
+        <p class="informacao12">Libertadores: 3</p>
+        <p class="informacao13">Mundial: 1</p>
+        <p class="informacao14">Rebaixamentos: 0</p>
+        <p class="informacao15">Presidente: Rodolfo Landim</p>
+        <p class="informacao16">Técnico: Tite</p>
+        <img class="img" src="https://assets.goal.com/images/v3/blt19c436702b17cb3e/GettyImages-1437577598.jpg?auto=webp&format=pjpg&width=3840&quality=60"
+        <h1 class="escudo">times</h1>
+        <h1 class="escudo">times</h1>
+        <img class="est" src="https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2022/06/13/1345552095-62a76015782d4.jpeg"
+        <h1 class="escudo">times</h1>
+        <h1 class="escudo">times</h1>
+        <img class="tof" src="https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/04/52495505908_446e2515e4_k-e1681121195500.jpg?w=1220&h=674&crop=1"
+    </body>
+</html>

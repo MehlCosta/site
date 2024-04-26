@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+DOCTYPE html>
 <html>
     <head>
         <meta charset="UTF-8">
@@ -14,6 +14,30 @@
                 position: fixed;
                 top: 50px;
                 left: -100px;
+            }
+            .img {
+                height: 400px;
+                width: 400;
+                border: 10px;
+                position: fixed;
+                top: 50px;
+                left: 900px;
+            }
+            .tof {
+                height: 150px;
+                width: 400;
+                border: 10px;
+                position: fixed;
+                top: 500px;
+                left: 900px;
+            }
+            .est {
+                height: 150px;
+                width: 400;
+                border: 10px;
+                position: fixed;
+                top: 500px;
+                left: 1200px;
             }
             .escudo {
                 color:black;
@@ -145,5 +169,12 @@
         <p class="informacao14">Rebaixamentos: 1</p>
         <p class="informacao15">Presidente: Augusto Melo</p>
         <p class="informacao16">Técnico:António Oliveira</p>
+        <img class="img" src="https://cdn.meutimao.com.br/fotos-do-corinthians/w614/2019/04/21/cassio_erguendo_a_taca_de_campeao_paulista_2019_u.jpg"
+        <h1 class="escudo">times</h1>
+        <h1 class="escudo">times</h1>
+        <img class="est" src="https://cdn.panrotas.com.br/portal-panrotas-statics/media-files-original/2014/05/29/461abitarecam01.jpg"
+        <h1 class="escudo">times</h1>
+        <h1 class="escudo">times</h1>
+        <img class="tof" src="https://cdn.meutimao.com.br/fotos-do-corinthians/w614/2023/05/14/gavioes_da_fiel_marcou_presenca_novamente_nas_im3r.jpg"
     </body>
 </html>
